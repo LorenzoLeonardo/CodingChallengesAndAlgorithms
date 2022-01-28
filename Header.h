@@ -71,11 +71,12 @@ public:
 
 };
 
-string gridChallenge(vector<string> grid);
-int superDigit(string n, int k);
-string isBalanced(string s);
-string cropMessage(string& message, int K);
-double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2);
-int lengthOfLongestSubstring(string s);
+string  gridChallenge(vector<string> grid);
+int     superDigit(string n, int k);
+string  isBalanced(string s);
+string  cropMessage(string& message, int K);
+double  findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2);
+int     lengthOfLongestSubstring(string s);
+string  longestPalindrome(string s);
 
 
