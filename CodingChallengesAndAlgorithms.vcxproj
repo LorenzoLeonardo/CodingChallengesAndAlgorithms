@@ -162,6 +162,7 @@
     <ClCompile Include="QuickSortAlgorithm.cpp" />
     <ClCompile Include="RecursiveDigitSum.cpp" />
     <ClCompile Include="SequentialDigits.cpp" />
+    <ClCompile Include="ShortestAndLongestPalindromicSubString.cpp" />
     <ClCompile Include="SparseBinaryDecomposition.cpp" />
     <ClCompile Include="SuperDigit.cpp" />
     <ClCompile Include="TimeConversionProblem.cpp" />
