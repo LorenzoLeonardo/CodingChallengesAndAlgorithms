@@ -142,6 +142,7 @@
   <ItemGroup>
     <ClCompile Include="CountBinaryGapZeroes.cpp" />
     <ClCompile Include="FindMedianOfSortedArray.cpp" />
+    <ClCompile Include="FloodDepthProblem.cpp" />
     <ClCompile Include="GridChallenge.cpp" />
     <ClCompile Include="IsBalanced.cpp" />
     <ClCompile Include="LengthOfLongestSubstring.cpp" />

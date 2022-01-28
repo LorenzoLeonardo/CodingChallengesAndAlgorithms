@@ -40,6 +40,6 @@ int     lengthOfLongestSubstring(string s);
 string  longestPalindrome(string s);
 int     countBinaryGapZeros(int N);
 int     longestPassword(string& S);
-//SinglyLinkedListNode* mergeLists(SinglyLinkedListNode* head1, SinglyLinkedListNode* head2)
+int     floodDepth(vector<int>& A);
 
 
