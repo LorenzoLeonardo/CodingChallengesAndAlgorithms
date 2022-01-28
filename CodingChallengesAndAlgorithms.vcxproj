@@ -160,6 +160,7 @@
     <ClCompile Include="PollutionFilterProblem.cpp" />
     <ClCompile Include="QueueUsingTwoStacks.cpp" />
     <ClCompile Include="RecursiveDigitSum.cpp" />
+    <ClCompile Include="SequentialDigits.cpp" />
     <ClCompile Include="SparseBinaryDecomposition.cpp" />
     <ClCompile Include="SuperDigit.cpp" />
     <ClCompile Include="TimeConversionProblem.cpp" />
