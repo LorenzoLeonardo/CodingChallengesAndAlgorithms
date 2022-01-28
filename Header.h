@@ -10,8 +10,6 @@
 #include <iomanip>
 #include <sstream>
 #include <map>
-//#include "MergeTwoSortedLinkedList.h"
-//#include "QueueUsingTwoStacks.h"
 
 using namespace std;
 
@@ -42,5 +40,8 @@ int     countBinaryGapZeros(int N);
 int     longestPassword(string& S);
 int     floodDepth(vector<int>& A);
 int     numOfFiltersFactory(vector<int>& A);
+int     longestSubarray(vector<int> arr);
+int     countPairBitwiseAndPow2(vector<int> n);
+
 
 

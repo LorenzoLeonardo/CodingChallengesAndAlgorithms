@@ -141,6 +141,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CountBinaryGapZeroes.cpp" />
+    <ClCompile Include="CountPowerOfTwoBitwise.cpp" />
     <ClCompile Include="FindMedianOfSortedArray.cpp" />
     <ClCompile Include="FloodDepthProblem.cpp" />
     <ClCompile Include="GridChallenge.cpp" />
