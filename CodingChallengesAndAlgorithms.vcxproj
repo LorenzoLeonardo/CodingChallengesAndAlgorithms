@@ -140,10 +140,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="FindMedianOfSortedArray.cpp" />
     <ClCompile Include="GridChallenge.cpp" />
     <ClCompile Include="IsBalanced.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="MergeTwoSortedLinkedList.cpp" />
+    <ClCompile Include="MessageCroppingProblem.cpp" />
     <ClCompile Include="QueueUsingTwoStacks.cpp" />
     <ClCompile Include="RecursiveDigitSum.cpp" />
     <ClCompile Include="SuperDigit.cpp" />
