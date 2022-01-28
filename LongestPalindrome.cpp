@@ -1,5 +1,15 @@
 #include "Header.h"
 
+int expandAroundCenter(string s, int left, int right) 
+{
+    int L = left, R = right;
+    while ((L >= 0) && (R < s.length()) && (s[L] == s[R])) {
+        L--;
+        R++;
+    }
+    return R - L - 1;
+}
+
 string longestPalindrome(string s)
 {
     if (s.empty() || s.length() < 1)
