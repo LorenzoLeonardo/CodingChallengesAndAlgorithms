@@ -151,6 +151,7 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="MergeTwoSortedLinkedList.cpp" />
     <ClCompile Include="MessageCroppingProblem.cpp" />
+    <ClCompile Include="PollutionFilterProblem.cpp" />
     <ClCompile Include="QueueUsingTwoStacks.cpp" />
     <ClCompile Include="RecursiveDigitSum.cpp" />
     <ClCompile Include="SparseBinaryDecomposition.cpp" />

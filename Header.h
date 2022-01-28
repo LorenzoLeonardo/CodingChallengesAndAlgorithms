@@ -41,5 +41,6 @@ string  longestPalindrome(string s);
 int     countBinaryGapZeros(int N);
 int     longestPassword(string& S);
 int     floodDepth(vector<int>& A);
+int     numOfFiltersFactory(vector<int>& A);
 
 
