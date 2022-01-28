@@ -78,5 +78,5 @@ string  cropMessage(string& message, int K);
 double  findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2);
 int     lengthOfLongestSubstring(string s);
 string  longestPalindrome(string s);
-
+int     countBinaryGapZeros(int N);
 

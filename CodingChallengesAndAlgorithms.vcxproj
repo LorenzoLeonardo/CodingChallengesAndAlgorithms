@@ -140,6 +140,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CountBinaryGapZeroes.cpp" />
     <ClCompile Include="FindMedianOfSortedArray.cpp" />
     <ClCompile Include="GridChallenge.cpp" />
     <ClCompile Include="IsBalanced.cpp" />
