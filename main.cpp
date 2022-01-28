@@ -1,4 +1,5 @@
 #include "Header.h"
+#include "QueueUsingTwoStacks.h"
 
 int main()
 {
@@ -39,7 +40,7 @@ int main()
         }
         else if (operation == "3")
         {
-            myqueue.frontEle();
+            myqueue.frontElement();
         }
 
         operation = "";

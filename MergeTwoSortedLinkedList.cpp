@@ -1,18 +1,5 @@
 #include "Header.h"
-
-class SinglyLinkedListNode
-{
-   
-public:
-    int data;
-    SinglyLinkedListNode* next;
-
-    SinglyLinkedListNode(int num)
-    {
-        data = num;
-        next = nullptr;
-    }
-};
+#include "MergeTwoSortedLinkedList.h"
 
 
 SinglyLinkedListNode * mergeLists(SinglyLinkedListNode * head1, SinglyLinkedListNode * head2) 
