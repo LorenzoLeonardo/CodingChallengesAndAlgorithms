@@ -148,6 +148,7 @@
     <ClCompile Include="LengthOfLongestSubstring.cpp" />
     <ClCompile Include="LongestPalindrome.cpp" />
     <ClCompile Include="LongestPassword.cpp" />
+    <ClCompile Include="LongestSubArray.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="MergeTwoSortedLinkedList.cpp" />
     <ClCompile Include="MessageCroppingProblem.cpp" />
