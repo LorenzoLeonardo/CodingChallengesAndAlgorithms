@@ -48,6 +48,7 @@ int         lonelyInteger(vector<int> a);
 vector<int> countingSort(vector<int> arr);
 string      caesarCipher(string s, int k);
 vector<int> sequentialDigits(int low, int high);
+vector<int> twoSum(vector<int>& nums, int target);
 
 
 

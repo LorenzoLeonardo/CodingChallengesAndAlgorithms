@@ -164,6 +164,7 @@
     <ClCompile Include="SparseBinaryDecomposition.cpp" />
     <ClCompile Include="SuperDigit.cpp" />
     <ClCompile Include="TimeConversionProblem.cpp" />
+    <ClCompile Include="TwoSum.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header.h" />
