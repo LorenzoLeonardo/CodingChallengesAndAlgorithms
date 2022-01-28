@@ -42,6 +42,7 @@ int     floodDepth(vector<int>& A);
 int     numOfFiltersFactory(vector<int>& A);
 int     longestSubarray(vector<int> arr);
 int     countPairBitwiseAndPow2(vector<int> n);
+string  timeConversion(string s);
 
 
 

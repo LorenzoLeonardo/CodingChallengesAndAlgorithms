@@ -158,6 +158,7 @@
     <ClCompile Include="RecursiveDigitSum.cpp" />
     <ClCompile Include="SparseBinaryDecomposition.cpp" />
     <ClCompile Include="SuperDigit.cpp" />
+    <ClCompile Include="TimeConversionProblem.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header.h" />

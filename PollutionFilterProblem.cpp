@@ -24,7 +24,7 @@ int numOfFiltersFactory(vector<int>& A)
     //Create a double container so that we could also chekc included decimal points to have accurate results;
     //Good to sort it first from Maximum to lowest
     sort(A.begin(), A.end());
-    for (int i = A.size() - 1; i >= 0; i--)
+    for (size_t i = A.size() - 1; i >= 0; i--)
     {
         vdbl.push_back((double)A[i]);
     }
