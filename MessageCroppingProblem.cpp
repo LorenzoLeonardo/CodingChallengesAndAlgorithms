@@ -23,7 +23,7 @@ string cropMessage(string& message, int K)
         else
         {
             int i = 0;
-            for (i = (substring.size() - 1); (i >= 0); i--)
+            for (i = (int)(substring.size() - 1); (i >= 0); i--)
             {
                 if ((substring[i] == ' '))
                 {

@@ -2,7 +2,7 @@
 
 int lengthOfLongestSubstring(string s) 
 {
-    int n = s.length(), ans = 0;
+    int n = (int)s.length(), ans = 0;
     map<char, int> mMap;
 
     for (int j = 0, i = 0; j < n; j++)
