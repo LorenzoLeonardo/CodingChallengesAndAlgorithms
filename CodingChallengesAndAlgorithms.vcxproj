@@ -159,6 +159,7 @@
     <ClCompile Include="MiniMaxSum.cpp" />
     <ClCompile Include="PollutionFilterProblem.cpp" />
     <ClCompile Include="QueueUsingTwoStacks.cpp" />
+    <ClCompile Include="QuickSortAlgorithm.cpp" />
     <ClCompile Include="RecursiveDigitSum.cpp" />
     <ClCompile Include="SequentialDigits.cpp" />
     <ClCompile Include="SparseBinaryDecomposition.cpp" />
@@ -170,6 +171,7 @@
     <ClInclude Include="Header.h" />
     <ClInclude Include="MergeTwoSortedLinkedList.h" />
     <ClInclude Include="QueueUsingTwoStacks.h" />
+    <ClInclude Include="QuickSortAlgorithm.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -9,6 +9,7 @@ string longestPalindrome(string s)
 
     for (long i = 1; i < len; ++i)
     {
+        //For even
         low = i - 1;
         high = i;
         while (low >= 0 && high < len
@@ -25,6 +26,7 @@ string longestPalindrome(string s)
             maxLength = high - low + 1;
         }
 
+        //for odd
         low = i - 1;
         high = i + 1;
         while (low >= 0 && high < len
