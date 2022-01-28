@@ -50,6 +50,8 @@ string      caesarCipher(string s, int k);
 vector<int> sequentialDigits(int low, int high);
 vector<int> twoSum(vector<int>& nums, int target);
 vector<string> shortestAndLongestPalindromicSubString(string s);
+string      shortestPalindrome2(string s);
+string      shortestPalindrome(string s);
 
 
 
