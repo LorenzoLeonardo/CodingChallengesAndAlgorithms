@@ -140,6 +140,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CaesarCipher.cpp" />
     <ClCompile Include="CountBinaryGapZeroes.cpp" />
     <ClCompile Include="CountingSort.cpp" />
     <ClCompile Include="CountPowerOfTwoBitwise.cpp" />

@@ -46,6 +46,7 @@ string      timeConversion(string s);
 void        miniMaxSum(vector<int> arr);
 int         lonelyInteger(vector<int> a);
 vector<int> countingSort(vector<int> arr);
+string      caesarCipher(string s, int k);
 
 
 
