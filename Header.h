@@ -52,6 +52,7 @@ vector<int> twoSum(vector<int>& nums, int target);
 vector<string> shortestAndLongestPalindromicSubString(string s);
 string      shortestPalindrome2(string s);
 string      shortestPalindrome(string s);
+vector<int> sortOddAndEven(vector<int> v);
 
 
 

@@ -164,6 +164,7 @@
     <ClCompile Include="SequentialDigits.cpp" />
     <ClCompile Include="ShortestAndLongestPalindromicSubString.cpp" />
     <ClCompile Include="ShortestStringToAddToMakeAPalindrome.cpp" />
+    <ClCompile Include="SortOddAndEven.cpp" />
     <ClCompile Include="SparseBinaryDecomposition.cpp" />
     <ClCompile Include="SuperDigit.cpp" />
     <ClCompile Include="TimeConversionProblem.cpp" />
